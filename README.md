@@ -66,9 +66,9 @@ The following SaaS and hosted infrastructure providers offer global footprints, 
 
 ## 🛠️ Open-Source GitHub Projects
 
-Community-driven chaos engineering frameworks, failure injectors, and network resilience validation tools. Sorted in descending order by **GitHub Star Count**.
+Community-driven chaos engineering frameworks, failure injectors, and network resilience validation tools. Sorted in descending order by **GitHub Stars_Count**.
 
-| Project | Stars | Focus Area | Description |
+| Project | GitHub_Stars | Focus Area | Description |
 |---|---|---|---|
 | **[Chaos Monkey](https://github.com/Netflix/chaosmonkey)** | [![Stars](https://img.shields.io/github/stars/Netflix/chaosmonkey?style=social&color=white)](https://github.com/Netflix/chaosmonkey/stargazers) | Instance & VM Resiliency | The pioneer of chaos engineering created by Netflix. Automatically terminates virtual machine instances and containers in pre-production and production clusters to verify service redundancy and seamless failover. |
 | **[Toxiproxy](https://github.com/Shopify/toxiproxy)** | [![Stars](https://img.shields.io/github/stars/Shopify/toxiproxy?style=social&color=white)](https://github.com/Shopify/toxiproxy/stargazers) | Network Simulation & Latency | Developed by Shopify. A TCP proxy specifically crafted to simulate unstable network conditions (latency, jitter, bandwidth throttling, connection timeouts, and packet manipulation) for resilient multi-datacenter testing. |
@@ -126,7 +126,7 @@ We welcome additions, corrections, and new tool submissions! 💡
 1. **Fork** this repository.
 2. **Add or update** entries in `README.md` adhering to the standard markdown table schema.
 3. For SaaS platforms: include pricing starting tiers, explicit free tier / trial limits, company valuation or revenue, and relevant architectural specs.
-4. For Open-Source projects: provide the GitHub repo link and ensure the social star badge (`style=social&color=white`) points to `https://github.com/{org}/{repo}/stargazers`.
+4. For Open-Source projects: provide the GitHub repo link and ensure the social Stars_Badge (`style=social&color=white`) points to `https://github.com/{org}/{repo}/stargazers`.
 5. Open a **Pull Request** with a concise description of your changes.
 
 ---
@@ -153,3 +153,12 @@ If you found this list helpful, please consider:
 
 - This curated list is maintained for educational and architectural reference purposes only.
 - Inducing chaos experiments, network disruption, and node termination can cause unintended service interruptions; always validate blast radius isolation, ensure automated fallback procedures are operational, and test in non-production environments prior to production stress tests.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Global-High-Availability-Test-Data-Centers&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Global-High-Availability-Test-Data-Centers_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Global-High-Availability-Test-Data-Centers_growth.svg">
+  </picture>
+</a>
