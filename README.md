@@ -1,41 +1,51 @@
-# Awesome Global High-Availability Test Data Centers
+# 🌐 Awesome Global High-Availability Test Data Centers
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Global-High-Availability-Test-Data-Centers/pulls)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Global-High-Availability-Test-Data-Centers)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Global High-Availability Test Data Centers Banner" width="100%" />
+</p>
 
-> A curated list of top global high-availability (HA) test data centers, multi-region cloud infrastructure, enterprise colocation ecosystems, chaos engineering platforms, and fault-injection frameworks.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-High-Availability-Test-Data-Centers/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Global-High-Availability-Test-Data-Centers"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Infrastructure Platforms](#saas--hosted-infrastructure-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Architecture & HA Testing Strategies](#architecture--ha-testing-strategies)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+> 🚀 A curated list of top global high-availability (HA) test data centers, multi-region cloud infrastructure, enterprise colocation ecosystems, chaos engineering platforms, and fault-injection frameworks.
 
 ---
 
-## Overview
+## 📑 Table of Contents
+
+- [🔍 Overview](#-overview)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Infrastructure Platforms](#-saas--hosted-infrastructure-platforms)
+- [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
+- [🏗️ Architecture & HA Testing Strategies](#️-architecture--ha-testing-strategies)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 🔍 Overview
 
 High-availability (HA) validation and disaster recovery (DR) simulations require two complementary pillars:
-1. **Physical & Cloud Infrastructure**: Multi-region cloud environments, redundant availability zones (AZs), and interconnected colocation facilities where real-world network latency and failover topology exist.
-2. **Chaos & Resilience Frameworks**: Open-source tools that inject controlled faults (pod termination, packet latency, network partitions, host failures) to rigorously test uptime and automatic failover before incidents hit production.
+1. ☁️ **Physical & Cloud Infrastructure**: Multi-region cloud environments, redundant availability zones (AZs), and interconnected colocation facilities where real-world network latency and failover topology exist.
+2. 💥 **Chaos & Resilience Frameworks**: Open-source tools that inject controlled faults (pod termination, packet latency, network partitions, host failures) to rigorously test uptime and automatic failover before incidents hit production.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global data center colocation and cloud infrastructure testing sector is valued at approximately **$91 billion to $101 billion in 2025–2026**, expanding at a compound annual growth rate (CAGR) of **9.3% to 11.4%** propelled by generative AI workloads, high-density compute demands, and mission-critical multi-region enterprise deployments. The industry exhibits a **concentrated, oligopolistic top tier** led by hyperscalers (Amazon AWS, Microsoft Azure, Google Cloud) and global colocation REIT giants (Equinix, Digital Realty) who control vital interconnection hubs and fiber ecosystems, surrounded by a **moderately fragmented long-tail** of regional colocation providers, modular data center operators, and private infrastructure consortiums.
 
 ---
 
-## SaaS & Hosted Infrastructure Platforms
+## 🏢 SaaS & Hosted Infrastructure Platforms
 
 The following SaaS and hosted infrastructure providers offer global footprints, availability zones, and testing environments for high-availability deployments. Ranked in descending order by **Company Size (Market Capitalization / Valuation / Revenue)**.
 
@@ -54,7 +64,7 @@ The following SaaS and hosted infrastructure providers offer global footprints, 
 
 ---
 
-## Open-Source GitHub Projects
+## 🛠️ Open-Source GitHub Projects
 
 Community-driven chaos engineering frameworks, failure injectors, and network resilience validation tools. Sorted in descending order by **GitHub Star Count**.
 
@@ -72,7 +82,7 @@ Community-driven chaos engineering frameworks, failure injectors, and network re
 
 ---
 
-## Architecture & HA Testing Strategies
+## 🏗️ Architecture & HA Testing Strategies
 
 To achieve true five-nines (99.999%) availability, architect your testing strategy across three distinct failure zones:
 
@@ -110,9 +120,9 @@ flowchart TD
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-We welcome additions, corrections, and new tool submissions!
+We welcome additions, corrections, and new tool submissions! 💡
 1. **Fork** this repository.
 2. **Add or update** entries in `README.md` adhering to the standard markdown table schema.
 3. For SaaS platforms: include pricing starting tiers, explicit free tier / trial limits, company valuation or revenue, and relevant architectural specs.
@@ -121,7 +131,25 @@ We welcome additions, corrections, and new tool submissions!
 
 ---
 
-## Disclaimer
+## 💖 Support
+
+Thank you for visiting and supporting **Awesome Global High-Availability Test Data Centers**! 🙏
+
+If you found this list helpful, please consider:
+- ⭐ **Starring** this repository to help others discover it.
+- 🍴 **Forking** and contributing new data centers or chaos tools.
+- 📢 **Sharing** with your network, team, or fellow SREs and platform engineers.
+- ☕ **Buying a coffee / sponsoring** the maintainer on GitHub: [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Global-High-Availability-Test-Data-Centers&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Global-High-Availability-Test-Data-Centers&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
 
 - This curated list is maintained for educational and architectural reference purposes only.
 - Inducing chaos experiments, network disruption, and node termination can cause unintended service interruptions; always validate blast radius isolation, ensure automated fallback procedures are operational, and test in non-production environments prior to production stress tests.
